@@ -1,0 +1,83 @@
+aid: roomraccoon
+name: RoomRaccoon
+description: >-
+  RoomRaccoon is an all-in-one hotel management software platform for
+  independent hotels, B&Bs, guesthouses, hostels, and small chains, founded
+  in 2017 by Tymen van Dyl and Nadja Buckenberger and headquartered in
+  Breda, Netherlands with major operations in Cape Town, South Africa, plus
+  offices in Valencia, Spain and Lisbon, Portugal. The platform bundles a
+  cloud Property Management System (PMS), a Channel Manager that
+  synchronises rates, availability, and restrictions across 200+ OTAs,
+  metasearch engines, GDSs, and bedbanks, a commission-free Booking Engine
+  for direct website bookings with bookable add-ons, RaccoonPay for
+  integrated, multi-currency guest payments, and RaccoonRev for competitor
+  insights and revenue management. RoomRaccoon advertises 400+ integrations
+  with partners such as Booking.com, Expedia, Lightspeed, and Sage, and was
+  named World's Best Hotel Channel Manager at the 2023 World Travel Tech
+  Awards. A connectivity / partner API exists at api.roomraccoon.com
+  (e.g. POS endpoint at /api/?type=POS&version=2) but is access-controlled:
+  prospective integrators must request an API key and Hotel ID by emailing
+  connectivity@roomraccoon.com, and no public OpenAPI specification, public
+  SDKs, or public GitHub organisation are published.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Hospitality
+  - Hotels
+  - Hotel Management
+  - Property Management System
+  - PMS
+  - Channel Manager
+  - Booking Engine
+  - Payments
+  - Revenue Management
+  - Independent Hotels
+  - Bed And Breakfast
+  - Guesthouse
+  - Travel
+  - SaaS
+url: https://raw.githubusercontent.com/api-evangelist/roomraccoon/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://roomraccoon.com
+  - type: Platform
+    url: https://roomraccoon.com/platform/
+  - type: PMS
+    url: https://roomraccoon.com/solutions/hotel-management-software/
+  - type: ChannelManager
+    url: https://roomraccoon.com/platform/channel-manager/
+  - type: BookingEngine
+    url: https://roomraccoon.com/platform/booking-engine/
+  - type: Payments
+    url: https://roomraccoon.com/platform/payments/
+  - type: Solutions
+    url: https://roomraccoon.com/solutions/
+  - type: Integrations
+    url: https://roomraccoon.com/integrations/
+  - type: Pricing
+    url: https://roomraccoon.com/pricing/
+  - type: Blog
+    url: https://roomraccoon.com/blog/
+  - type: About
+    url: https://roomraccoon.com/about-roomraccoon/
+  - type: Careers
+    url: https://roomraccoon.com/careers/
+  - type: Contact
+    url: https://roomraccoon.com/contact/
+  - type: Support
+    url: https://help.roomraccoon.com/
+  - type: ConnectivityContact
+    url: mailto:connectivity@roomraccoon.com
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/roomraccoon
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/roomraccoon
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
