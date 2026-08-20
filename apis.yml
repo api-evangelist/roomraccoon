@@ -48,6 +48,21 @@ tags:
   - Bed And Breakfast
   - Guesthouse
   - Travel
+  - Software-as-a-Service
+tags_raw:
+  - Hospitality
+  - Hotels
+  - Hotel Management
+  - Property Management System
+  - PMS
+  - Channel Manager
+  - Booking Engine
+  - Payments
+  - Revenue Management
+  - Independent Hotels
+  - Bed And Breakfast
+  - Guesthouse
+  - Travel
   - SaaS
 url: https://raw.githubusercontent.com/api-evangelist/roomraccoon/refs/heads/main/apis.yml
 created: '2026-05-25'
